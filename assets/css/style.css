@@ -1,0 +1,115 @@
+body {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.navbar-brand p {
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 15px;
+}
+
+.bg-navbar {
+  background-color: #14c38e;
+}
+
+.nav-ul-edit li a {
+  color: white;
+  font-weight: bold !important;
+}
+
+.container-tentang {
+  margin-top: 95px !important;
+  padding: 90px 0;
+}
+.logo-layanan {
+  margin-left: 45%;
+}
+
+.judul-beranda {
+  padding: 20px 0;
+  color: #186640;
+}
+.judul-fitur h4 {
+  color: #186640;
+}
+
+.img-dokter {
+  position: relative;
+  width: 600px;
+  height: 400px;
+  overflow: hidden;
+  border-radius: 10px !important;
+  cursor: pointer;
+}
+
+.img-dokter img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-login {
+  height: 400px;
+  width: 400px;
+  margin-left: 30%;
+  margin-top: 100px;
+  background-color: white;
+  border-color: #13523f;
+}
+/*.input-email input {
+  /* border-bottom: 1px solid black !important; */
+
+.input-email .form-control {
+  border-radius: 0 !important;
+  border-bottom: 2px solid #0f5840;
+  border-left: none !important;
+  border-right: none !important;
+  border-top: none !important;
+}
+
+.input-email input:active,
+.input-email input:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+.btn-login {
+  margin-left: 130px !important;
+  border-radius: 20px;
+  padding: 6px 30px !important;
+  background-color: #00ffab;
+}
+.bg-login {
+  background-color: #b8f1b0;
+}
+
+section {
+  background-color: #b8f1b0;
+}
+.content-branda {
+  margin-top: 95px !important;
+}
+
+.card-index:hover {
+  background-color: #b8f1b0 !important;
+  border: none;
+  cursor: pointer;
+}
+.col i {
+  font-size: 100px;
+}
+.contain-kelebihan {
+  color: #186640;
+  margin-top: 50px;
+}
+footer .deskripsi {
+  background-color: #00ffab;
+}
+.copyright {
+  background-color: #14c38e;
+  height: 40px;
+  text-transform: capitalize;
+  text-align: center;
+}
